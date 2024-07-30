@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Computer-Vision/static/css/main.f855e6bc.css",
+    "main.js": "/Computer-Vision/static/js/main.289b040c.js",
+    "static/media/victory.png": "/Computer-Vision/static/media/victory.8710fbb201e8f3ee6274.png",
+    "static/media/thumbs_up.png": "/Computer-Vision/static/media/thumbs_up.e3bf974dcf17c12c8cfa.png",
+    "index.html": "/Computer-Vision/index.html",
+    "main.f855e6bc.css.map": "/Computer-Vision/static/css/main.f855e6bc.css.map",
+    "main.289b040c.js.map": "/Computer-Vision/static/js/main.289b040c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.289b040c.js"
+  ]
+}
